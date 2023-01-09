@@ -3,6 +3,7 @@ module github.com/fiuskylab/grpc-forward
 go 1.19
 
 require (
+	github.com/google/uuid v1.3.0
 	github.com/joho/godotenv v1.4.0
 	google.golang.org/grpc v1.51.0
 	google.golang.org/protobuf v1.28.1
